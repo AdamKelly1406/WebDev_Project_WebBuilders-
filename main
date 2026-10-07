@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang ="en-US">
+
+    <head>
+        <meta charset="UTF-8">
+        <title> Wheels on Fire </title>
+    </head>
+    
+    <body>
+        <img src="josh-berquist-_4sWbzH5fp8-unsplash"
+        alt="A Car for front page"
+    </body>
+
+    <article> 
+        <h1>    About us   </h1>
+        <p> Wheels on Fire is a company based around giving our
+            customers an amazing experience. Buying a car isnt 
+            just a casual task, it should something appreciated.
+        </p>
+    </article>
+
+    <button type=" button">
+        <p> For more information </p> 
+    </button>
+
+    <details>   
+        <summary> Info on BMW </summary>
+       <p> model: M4  Price: $30,000 </p>
+    </details>
+
+    <section>   
+        <p> All information here is about BMW's </p>
+    </section>
+
+    <nav>
+        <a href="#home" Home</a>
+    </nav>
+        
+    
+
+
+    </html>
