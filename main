@@ -1,26 +1,33 @@
 <!DOCTYPE html>
 <html lang ="en-US">
 
+    
     <head>
         <meta charset="UTF-8">
         <title> Wheels on Fire </title>
     </head>
     
     <body>
-        <img src="josh-berquist-_4sWbzH5fp8-unsplash"
-        alt="A Car for front page"
+        <p id="bgimage">
+        </p>
     </body>
 
     <article> 
         <h1>    About us   </h1>
-        <p> Wheels on Fire is a company based around giving our
+        <p id="About_us">
+            Wheels on Fire is a company based around giving our
             customers an amazing experience. Buying a car isnt 
             just a casual task, it should something appreciated.
         </p>
+
     </article>
 
     <button type=" button">
-        <p> For more information </p> 
+        <p> Info on BMW </p> 
+    </button>
+
+    <button type=" button">
+        <p> Home </p> 
     </button>
 
     <details>   
@@ -33,10 +40,11 @@
     </section>
 
     <nav>
-        <a href="#home" Home</a>
+        <a href="#home" Home>
+
+        </a>
     </nav>
         
-    
 
 
     </html>
